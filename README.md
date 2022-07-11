@@ -4,4 +4,5 @@
   
 ### • Html • Css • Javascript • ReactJs • Typescript • NodeJs 📚
  
-Knowledges: (https://img.shields.io/badge/-CSS-orange.png)
+
+(https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
