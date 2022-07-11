@@ -5,4 +5,3 @@
 ### • Html • Css • Javascript • ReactJs • Typescript • NodeJs 📚
  
 
-(https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
