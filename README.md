@@ -1,4 +1,6 @@
-### PAINZOR'S INFORMATION 👋
+## About me 👋
+
+  
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
