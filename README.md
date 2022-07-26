@@ -4,5 +4,3 @@
   
 ### • Html • Css • Javascript • ReactJs • Typescript • NodeJs 📚
  
- 
-<a href="https://app.daily.dev/PAINZOR"><img src="https://api.daily.dev/devcards/e6080488350d48d5a6fe1c810be17fe0.png?r=gll" position="right" width="100" alt="Luigi's Dev Card"/></a>
