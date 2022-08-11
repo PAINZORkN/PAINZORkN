@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **painzorkn@gmail.com**
  
- <p align="left"> Studying as FullStack Developer... Focusing my Skills on ↙️  </p>
+ <p align="left"> Studying as FullStack Developer... Focusing my skills on ↙️  </p>
  
  <br>
  
