@@ -26,8 +26,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
