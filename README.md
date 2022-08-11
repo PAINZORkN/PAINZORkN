@@ -1,6 +1,8 @@
 ## About me 📜
 
 ### Hello everyone, my name is Luigi "PAINZORkN" De Blasio, actually im studying as FullStack Developer... I'm improving my skills on: 
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
