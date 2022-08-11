@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="left"> Studying as FullStack Developer... Focusing my Skills on: </p>
+- <p align="left"> Studying as FullStack Developer... Focusing my Skills on: </p>
 
 - ✍️ I’m currently learning Web Development and other programming languages
 
