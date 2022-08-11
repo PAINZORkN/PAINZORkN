@@ -4,7 +4,7 @@
 
 - <p align="left"> Studying as FullStack Developer... Focusing my Skills on: </p>
 
-- ✍️ I’m currently learning Web Development and other programming languages
+- ✍️ I’m currently learning Web Development 
 
 - 📫 How to reach me **painzorkn@gmail.com**
 
