@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="right"> Hello everyone, actually im studying as FullStack Developer... I'm improving my skills on: </p>
+<p align="left"> Hello everyone, actually im studying as FullStack Developer... I'm improving my skills on: </p>
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
  
