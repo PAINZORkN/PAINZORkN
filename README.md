@@ -1,6 +1,6 @@
 ## About me 📜
 
-### Hello everyone, my name is Luigi "PAINZORkN" De Blasio, actually im studying as FullStack Developer... I'm improving my skills on: 
+<h1 align="left">Hello everyone, my name is Luigi "PAINZORkN" De Blasio, actually im studying as FullStack Developer... I'm improving my skills on: </h1>
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
  
