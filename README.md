@@ -10,7 +10,7 @@
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
  
- <p align="left"> Studying as FullStack Developer... Focusing my Skills on  </p>
+ <p align="left"> Studying as FullStack Developer... Focusing my Skills on ↙️  </p>
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
