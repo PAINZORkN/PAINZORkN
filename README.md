@@ -2,7 +2,12 @@
 
 <br>
 
-<p align="left"> Studying as FullStack Developer... Focusing my Skills On: </p>
+<p align="left"> Studying as FullStack Developer... Focusing my Skills on: </p>
+
+- ✍️ I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **painzorkn@gmail.com**
+
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
  
