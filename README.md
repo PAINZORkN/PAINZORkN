@@ -11,9 +11,7 @@
 - <p align="left"> Studying as Frontend Developer, <br> focusing my skills on ⬇️  </p>
  
  <br>
- 
-<br>
- 
+
  <h3 align="left">Connect with me ⬇️ </h3>
 <p align="left">
  
