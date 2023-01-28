@@ -4,12 +4,11 @@
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
 
-- ✍️ I’m currently learning Web Development 
+- ✍️ Studying as Frontend Developer
 
 - 📫 How to reach me **painzorkn@gmail.com**
  
-- <p align="left"> Studying as Frontend Developer </p>
- 
+
  <br>
 
  <h3 align="left">Connect with me ⬇️ </h3>
