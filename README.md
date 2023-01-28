@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **painzorkn@gmail.com**
  
-- <p align="left"> Studying as Frontend Developer, <br> focusing my skills on ⬇️  </p>
+- <p align="left"> Studying as Frontend Developer </p>
  
  <br>
 
