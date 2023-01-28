@@ -6,7 +6,7 @@
 
 - ✍️ Studying as Frontend Developer
 
-- 📫 How to reach me **painzorkn@gmail.com**
+- 📫 How to reach me by mail <br> **painzorkn@gmail.com**
  
 
  <br>
