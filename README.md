@@ -4,9 +4,9 @@
 
 <p><img align="right" src="https://s4.gifyu.com/images/animation_500_kxa883sd.gif" alt="PAINZOR" /></p>
 
-- ✍️ Studying as Frontend Developer
+- ✍️ Frontend Web Developer!
 
-- 📫 How to reach me by mail <br> **painzorkn@gmail.com**
+- 📫 How to reach me by mail <br> **painzordev@gmail.com**
  
 
  <br>
