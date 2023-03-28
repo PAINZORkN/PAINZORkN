@@ -6,7 +6,7 @@
 
 - ✍️ Frontend Web Developer!
 
-- 📫 How to reach me by mail <br> **painzordev@gmail.com**
+- 📫 Connect by mail <br> **painzordev@gmail.com**
  
 
  <br>
